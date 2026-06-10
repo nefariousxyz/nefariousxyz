@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```js
 const franz = {
@@ -30,7 +30,7 @@ Software Engineer and Full-Stack Developer building cool stuff with **Node.js, R
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,react,php,html,css,ts,js,mysql,git,github,vscode" alt="Tech Stack Icons" />
@@ -48,7 +48,7 @@ Software Engineer and Full-Stack Developer building cool stuff with **Node.js, R
 </p>
 ---
 
-## 🎯 What I Like Building
+## What I Like Building
 
 - Clean and modern admin dashboards
 - Full-stack web applications
@@ -62,7 +62,7 @@ Software Engineer and Full-Stack Developer building cool stuff with **Node.js, R
 
 ---
 
-## 💻 Engineering Mindset
+## Engineering Mindset
 
 ```txt
 Think clearly.
@@ -76,7 +76,7 @@ I care about writing code that is not only functional, but also clean, maintaina
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img 
@@ -97,7 +97,7 @@ I care about writing code that is not only functional, but also clean, maintaina
 
 ---
 
-## 🧠 Developer Wisdom
+## Developer Wisdom
 
 > “It works on my machine.”  
 > — Every developer before disaster
@@ -113,7 +113,7 @@ I care about writing code that is not only functional, but also clean, maintaina
 
 ---
 
-## 🐛 Current Status
+## Current Status
 
 ```txt
 [██████████░░░░░░] 60% Coding
@@ -123,7 +123,7 @@ I care about writing code that is not only functional, but also clean, maintaina
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/nefariousxyz">
