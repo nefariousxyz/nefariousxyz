@@ -2,7 +2,7 @@
 <h1 align="center">Hey there! I'm Franz</h1>
 
 <h3 align="center">
-  Software Engineer • Full-Stack Developer • Bug Whisperer • Coffee-to-Code Converter ☕
+  Software Engineer • Full-Stack Developer • Brand Manager • AI Automation Expert  • Bug Whisperer • Coffee-to-Code Converter ☕
 </h3>
 
 <p align="center">
