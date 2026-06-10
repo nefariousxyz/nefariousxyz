@@ -33,20 +33,19 @@ Software Engineer and Full-Stack Developer building cool stuff with **Node.js, R
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,php,html,css,ts,js,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,php,html,css,ts,js,mysql,git,github,vscode" alt="Tech Stack Icons" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software_Engineer-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full--Stack_Developer-111827?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Engineer-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Software Engineer" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-111827?style=for-the-badge&logo=codeforces&logoColor=white" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
-
 ---
 
 ## 🎯 What I Like Building
